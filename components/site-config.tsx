@@ -9,7 +9,7 @@ import { FiMail } from "react-icons/fi";
 const siteConfig = {
   copyright: `Copyright © ${new Date().getFullYear()} Judah Sullivan. All Rights Reserved.`,
   author: {
-    name: "Muhammad Ahmad",
+    name: "Judah Sullivan",
     accounts: [
       {
         url: "https://github.com/judahsullivan",
